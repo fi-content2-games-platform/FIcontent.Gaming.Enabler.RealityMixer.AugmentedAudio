@@ -1,4 +1,4 @@
-# Game Synchronization SE Demo instructions
+# Reality Mixer Reflection Mapping Enabler Demo instructions
 
 ### Download Unity
 Follow this link to get the latest version of Unity
@@ -9,12 +9,12 @@ Follow this link to get the latest version of Unity
 ### Clone the repository
 Clone this repository with the following command
 
-*git clone https://github.com/fi-content2-games-platform/FIcontent.Gaming.Enabler.GameSynchronization.git*
+*git clone https://github.com/fi-content2-games-platform/FIcontent.Gaming.Enabler.AugmentedAudio.git*
 
 ### Import to Unity
 Open the example scene:
 
-*FIcontent.Gaming.Enabler.GameSynchronization/Assets/GameSynchronization/Examples/Scenes/MasterServer.unity*
+*FIcontent.Gaming.Enabler.AugmentedAudio/Assets/scanner.unity*
 
 Hit play and enjoy!
 
